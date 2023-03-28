@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@bonfida/spl-name-service": "^0.1.67",
+    "@solana/spl-token": "^0.3.7",
+    "@solana/web3.js": "^1.74.0",
+    "bigint-buffer": "^1.1.5",
+    "tweetnacl": "^1.0.3"
+  }
+}
