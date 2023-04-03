@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@maticnetwork/maticjs": "*",
+    "@maticnetwork/maticjs-ethers": "*",
+    "@maticnetwork/maticjs-web3": "*",
+    "@truffle/hdwallet-provider": "*"
+  }
+}
